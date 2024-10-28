@@ -1,0 +1,14 @@
+{
+    "title": "Boas vindas!",
+    "professor": "",
+    "topics": [
+        "Aceleração Java",
+        "Para quem é essa Aceleração?"
+    ],
+    "videos": [
+        {
+            "prof": "Bruno Lopes", 
+            "title": "Conhecendo Melhor A Linguagem Java"
+        }
+    ]
+}
